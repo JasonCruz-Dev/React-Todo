@@ -1,0 +1,7 @@
+.item {
+  text-decoration: none;
+}
+/*gives item strike through or not*/
+.item.completed {
+  text-decoration: line-through;
+}
